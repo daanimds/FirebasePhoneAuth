@@ -1,7 +1,7 @@
 package com.example.firebasephoneauth;
 
 public class CountryData {
-    public static final String[] countryNames = {"India", "Afghanistan", "Albania",
+    public static final String[] countryNames = {"Pakistan", "Afghanistan", "Albania",
             "Algeria", "Andorra", "Angola", "Antarctica", "Argentina",
             "Armenia", "Aruba", "Australia", "Austria", "Azerbaijan",
             "Bahrain", "Bangladesh", "Belarus", "Belgium", "Belize", "Benin",
@@ -29,7 +29,7 @@ public class CountryData {
             "Monaco", "Mongolia", "Montenegro", "Morocco", "Mozambique",
             "Namibia", "Nauru", "Nepal", "Netherlands", "New Caledonia",
             "New Zealand", "Nicaragua", "Niger", "Nigeria", "Niue", "Korea",
-            "Norway", "Oman", "Pakistan", "Palau", "Panama",
+            "Norway", "Oman", "India", "Palau", "Panama",
             "Papua New Guinea", "Paraguay", "Peru", "Philippines", "Pitcairn",
             "Poland", "Portugal", "Puerto Rico", "Qatar", "Romania",
             "Russian Federation", "Rwanda", "Saint Barthélemy", "Samoa",
@@ -46,7 +46,7 @@ public class CountryData {
             "Holy See (vatican City State)", "Venezuela", "Viet Nam",
             "Wallis And Futuna", "Yemen", "Zambia", "Zimbabwe"};
 
-    public static final String[] countryAreaCodes = {"91", "93", "355", "213",
+    public static final String[] countryAreaCodes = {"92", "93", "355", "213",
             "376", "244", "672", "54", "374", "297", "61", "43", "994", "973",
             "880", "375", "32", "501", "229", "975", "591", "387", "267", "55",
             "673", "359", "226", "95", "257", "855", "237", "1", "238", "236",
@@ -61,7 +61,7 @@ public class CountryData {
             "960", "223", "356", "692", "222", "230", "262", "52", "691",
             "373", "377", "976", "382", "212", "258", "264", "674", "977",
             "31", "687", "64", "505", "227", "234", "683", "850", "47", "968",
-            "92", "680", "507", "675", "595", "51", "63", "870", "48", "351",
+            "91", "680", "507", "675", "595", "51", "63", "870", "48", "351",
             "1", "974", "40", "7", "250", "590", "685", "378", "239", "966",
             "221", "381", "248", "232", "65", "421", "386", "677", "252", "27",
             "82", "34", "94", "290", "508", "249", "597", "268", "46", "41",
